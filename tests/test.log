@@ -1,3 +1,4 @@
 Update database schema
 Refactor API error handling
 Add environment config template
+Add rate limiting
