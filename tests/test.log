@@ -3,3 +3,4 @@ Refactor API error handling
 Add environment config template
 Add rate limiting
 Add user authentication middleware
+Fix flaky integration test
