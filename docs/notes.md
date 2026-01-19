@@ -2,3 +2,4 @@
 # Clean up unused imports
 # Refactor API error handling
 # Increase test coverage
+# Fix navigation z-index issue
