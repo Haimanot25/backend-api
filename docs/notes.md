@@ -3,3 +3,4 @@
 # Refactor API error handling
 # Increase test coverage
 # Fix navigation z-index issue
+# Add user authentication middleware
