@@ -6,3 +6,4 @@
 # Add user authentication middleware
 # Fix navigation z-index issue
 # Fix typo in error message
+# Optimize image loading
