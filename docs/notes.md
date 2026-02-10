@@ -9,3 +9,4 @@
 # Optimize image loading
 # Optimize image loading
 # Fix responsive layout on mobile
+# Update changelog
