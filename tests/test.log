@@ -6,3 +6,4 @@ Add user authentication middleware
 Fix flaky integration test
 Add user authentication middleware
 Fix responsive layout on mobile
+Add API documentation
