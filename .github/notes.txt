@@ -1,3 +1,4 @@
 Fix responsive layout on mobile
 Add dark mode toggle
 Fix responsive layout on mobile
+Fix navigation z-index issue
