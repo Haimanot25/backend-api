@@ -10,3 +10,4 @@
 # Optimize image loading
 # Fix responsive layout on mobile
 # Update changelog
+# Refactor API error handling
