@@ -4,3 +4,4 @@ Fix responsive layout on mobile
 Fix navigation z-index issue
 Optimize image loading
 Add unit tests for auth module
+Fix CORS configuration
