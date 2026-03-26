@@ -11,3 +11,4 @@
 # Fix responsive layout on mobile
 # Update changelog
 # Refactor API error handling
+# Add dark mode toggle
