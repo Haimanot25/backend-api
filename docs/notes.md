@@ -12,3 +12,4 @@
 # Update changelog
 # Refactor API error handling
 # Add dark mode toggle
+# Refactor API error handling
