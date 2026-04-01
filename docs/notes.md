@@ -13,3 +13,4 @@
 # Refactor API error handling
 # Add dark mode toggle
 # Refactor API error handling
+# Update database schema
