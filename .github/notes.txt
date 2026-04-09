@@ -7,3 +7,4 @@ Add unit tests for auth module
 Fix CORS configuration
 Clean up unused imports
 Fix navigation z-index issue
+Refactor API error handling
