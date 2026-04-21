@@ -15,3 +15,4 @@
 # Refactor API error handling
 # Update database schema
 # Update database schema
+# Update README with setup instructions
