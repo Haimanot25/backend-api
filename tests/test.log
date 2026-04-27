@@ -11,3 +11,4 @@ Add API documentation
 Fix responsive layout on mobile
 Update database schema
 Add e2e test for checkout flow
+Add environment config template
