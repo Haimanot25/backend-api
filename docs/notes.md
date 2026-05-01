@@ -16,3 +16,4 @@
 # Update database schema
 # Update database schema
 # Update README with setup instructions
+# Fix responsive layout on mobile
