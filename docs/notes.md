@@ -17,3 +17,4 @@
 # Update database schema
 # Update README with setup instructions
 # Fix responsive layout on mobile
+# Update hero section styling
