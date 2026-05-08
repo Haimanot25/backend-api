@@ -18,3 +18,4 @@
 # Update README with setup instructions
 # Fix responsive layout on mobile
 # Update hero section styling
+# Add rate limiting
