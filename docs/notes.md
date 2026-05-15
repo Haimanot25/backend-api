@@ -19,3 +19,4 @@
 # Fix responsive layout on mobile
 # Update hero section styling
 # Add rate limiting
+# Add user authentication middleware
