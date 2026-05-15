@@ -20,3 +20,4 @@
 # Update hero section styling
 # Add rate limiting
 # Add user authentication middleware
+# Update database schema
