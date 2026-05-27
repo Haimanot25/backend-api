@@ -21,3 +21,4 @@
 # Add rate limiting
 # Add user authentication middleware
 # Update database schema
+# Add user authentication middleware
