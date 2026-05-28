@@ -11,3 +11,4 @@ Refactor API error handling
 Optimize image loading
 Fix CORS configuration
 Clean up unused imports
+Add dark mode toggle
