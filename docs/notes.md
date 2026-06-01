@@ -22,3 +22,4 @@
 # Add user authentication middleware
 # Update database schema
 # Add user authentication middleware
+# Fix CORS configuration
