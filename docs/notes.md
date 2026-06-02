@@ -23,3 +23,4 @@
 # Update database schema
 # Add user authentication middleware
 # Fix CORS configuration
+# Fix navigation z-index issue
