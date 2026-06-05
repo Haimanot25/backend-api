@@ -12,3 +12,4 @@ Optimize image loading
 Fix CORS configuration
 Clean up unused imports
 Add dark mode toggle
+Fix responsive layout on mobile
