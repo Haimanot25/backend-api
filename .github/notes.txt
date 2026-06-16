@@ -14,3 +14,4 @@ Clean up unused imports
 Add dark mode toggle
 Fix responsive layout on mobile
 Refactor API error handling
+Optimize image loading
