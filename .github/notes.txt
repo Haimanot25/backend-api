@@ -17,3 +17,4 @@ Refactor API error handling
 Optimize image loading
 Fix responsive layout on mobile
 Update changelog
+Increase test coverage
