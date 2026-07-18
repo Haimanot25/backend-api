@@ -25,3 +25,4 @@
 # Fix CORS configuration
 # Fix navigation z-index issue
 # Fix typos in contributing guide
+# Add e2e test for checkout flow
